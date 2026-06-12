@@ -7,5 +7,5 @@ for i in range(N[0]):
     N[1] -= (refeicao[0]*4)
     N[1] -= (refeicao[1]*9)
     N[1] -= (refeicao[2]*4)
-    
-input(N[1])
+
+print(N[1])
